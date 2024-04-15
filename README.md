@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello, I'm Kevin Roper
+ 
+I'm a versatile full stack developer with years if experience in a variety of a technologies and platforms. Constantly exploring new technologies and leveraging them to build amazing stuff and at times to migrate legacy systems. Here's a glimpse of my skills and experience.
 
-<!--
-**Kevins-Trove/Kevins-trove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills
+ - Languages: JavaScript, Python, Groovy
+ - Frameworks: React, Node.js, Express.js
+ - Databases: MySQL, PostgreSQL
+ - Tools: Git, Docker, Kubernetes
+ - Others: FileMaker, MicroStation Development Language (MDL),  Arc Macro Language (AML), Avenue scripting (ArcView), AutoLisp, Visual Basic (VB) 
 
-Here are some ideas to get you started:
+## 📫 How to reach me:
+ - [Contact Me](mailto:kevin@kevinstrove.com)
+## ⚡ Fun fact:
+ - I love white water rafting and motorcycles, but not at the same time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
