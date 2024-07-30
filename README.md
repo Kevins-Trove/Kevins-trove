@@ -4,9 +4,9 @@ I'm a versatile full stack developer with years if experience in a variety of a 
 
 ## 🚀 Skills
  - Languages: JavaScript, Python, Groovy
- - Frameworks: React, Node.js, Express.js
- - Databases: MySQL, PostgreSQL
- - Tools: Git, Docker, Kubernetes
+ - Frameworks: React, Node.js, Express.js, React
+ - Databases: MySQL, PostgreSQL, Mongo
+ - Tools: Git, Docker, Kubernetes, AWS
  - Others: FileMaker, MicroStation Development Language (MDL),  Arc Macro Language (AML), Avenue scripting (ArcView), AutoLisp, Visual Basic (VB) 
 
 ## 📫 How to reach me:
